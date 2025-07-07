@@ -12,8 +12,7 @@ This Python project helps you wake up **30 minutes before sunrise** every day by
 1. Clone the repo:
 ```
 
-git clone [https://github.com/tharunerd/Sun-rise-alarm-app](https://github.com/tharunerd/Sun-rise-alarm-app)
-cd Sun-rise-alarm-app
+git clone https://github.com/tharunerd/Sun-rise-alarm-app
 
 ```
 
@@ -42,6 +41,3 @@ python sunrise\_alarm.py
 ## Author
 **Tharun Kumar Akula**  
 🔗 [GitHub](https://github.com/tharunerd) | [LinkedIn](https://linkedin.com/in/akula-tharun-kumar)
-```
-
----
