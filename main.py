@@ -46,6 +46,7 @@ class AlarmApp(App):
         threading.Thread(target=self.wait_and_ring, args=(alarm_time,), daemon=True).start()
 
 if __name__ == '__main__':
+    print("Starting Alarm App...")
     AlarmApp().run()
 
 
