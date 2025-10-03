@@ -3,10 +3,10 @@
 This Python project helps you wake up **30 minutes before sunrise** every day by calculating your local sunrise time and setting an alarm accordingly.
 
 ## Features
-- Gets real-time sunrise time using the Sunrise-Sunset API
-- Calculates 30-minutes-before-sunrise
-- Plays an alarm sound at the right time
-- Customizable for any location
+- Gets real-time sunrise time using the Sunrise-Sunset API.
+- Calculates 30-minutes-before-sunrise.
+- Plays an alarm sound at the right time.
+- Customizable for any location anywhere in the World.
 
 ## How to Use
 1. Clone the repo:
